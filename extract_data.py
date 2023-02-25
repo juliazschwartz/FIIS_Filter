@@ -1,3 +1,5 @@
+#This project is still in progress, this version is still simple, new increments will be added 
+
 import requests as requests;
 import pandas as pd;
 from bs4 import BeautifulSoup;
